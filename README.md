@@ -3,7 +3,7 @@
 ![Alexandra Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E4057&height=200&section=header&text=Alexandra%20AI%20Voice%20Assistant&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
 
 > An intelligent voice assistant built with Kotlin, Java, and the OpenAI API.
-> Final Year Project (PFE) – 2026
+> Final Year Project (PFE) – 2026 
  
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com)
