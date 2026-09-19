@@ -8,9 +8,7 @@ Final Year Project (PFE) · 2026
 
 [**🎥 Video Demo**](https://youtu.be/TODO) · [**📸 Screenshots**](#screenshots) · [**🏗️ Architecture**](#architecture)
 
-[![Android CI](https://github.com/El-Tousy/alexandra-voice-assistant/actions/workflows/android-ci.yml/badge.svg)](https://github.com/El-Tousy/alexandra-voice-assistant/actions/workflows/android-ci.yml)
 [![License](https://img.shields.io/github/license/El-Tousy/alexandra-voice-assistant)](LICENSE)
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
