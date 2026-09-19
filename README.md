@@ -6,15 +6,13 @@
 
 Final Year Project (PFE) · 2026
 
-[**🎥 Video Demo**](https://youtu.be/TODO) · [**📦 Download APK**](https://github.com/El-Tousy/alexandra-voice-assistant/releases/latest) · [**📸 Screenshots**](#screenshots) · [**🏗️ Architecture**](#architecture)
+[**🎥 Video Demo**](https://youtu.be/TODO) · [**📸 Screenshots**](#screenshots) · [**🏗️ Architecture**](#architecture)
 
 [![Android CI](https://github.com/El-Tousy/alexandra-voice-assistant/actions/workflows/android-ci.yml/badge.svg)](https://github.com/El-Tousy/alexandra-voice-assistant/actions/workflows/android-ci.yml)
-[![Release](https://img.shields.io/github/v/release/El-Tousy/alexandra-voice-assistant?display_name=tag)](https://github.com/El-Tousy/alexandra-voice-assistant/releases)
 [![License](https://img.shields.io/github/license/El-Tousy/alexandra-voice-assistant)](LICENSE)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
