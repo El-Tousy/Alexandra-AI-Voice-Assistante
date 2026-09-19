@@ -15,6 +15,8 @@ Final Year Project (PFE) · 2026
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+[🇬🇧 English](README.md) · [🇩🇪 Deutsch](README.de.md)
+
 </div>
 
 <!-- TODO: 15-20s GIF of a real voice interaction (you speaking, the app answering).
