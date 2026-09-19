@@ -106,14 +106,14 @@ For anyone reviewing this repository, here is what it shows in practice:
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/%20app/home.jpeg" width="200" alt="Home" /><br /><sub>Home</sub></td>
-    <td align="center"><img src="screenshots/%20app/histories.jpeg" width="200" alt="History" /><br /><sub>History</sub></td>
-    <td align="center"><img src="screenshots/%20app/profile.jpeg" width="200" alt="Profile" /><br /><sub>Profile</sub></td>
+    <td align="center"><img src="screenshots/App/home.jpeg" width="200" alt="Home" /><br /><sub>Home</sub></td>
+    <td align="center"><img src="screenshots/App/histories.jpeg" width="200" alt="History" /><br /><sub>History</sub></td>
+    <td align="center"><img src="screenshots/App/profile.jpeg" width="200" alt="Profile" /><br /><sub>Profile</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/%20app/login.jpeg" width="200" alt="Login" /><br /><sub>Login</sub></td>
-    <td align="center"><img src="screenshots/%20app/register.jpeg" width="200" alt="Sign up" /><br /><sub>Sign up</sub></td>
-    <td align="center"><img src="screenshots/%20app/permissions.jpeg" width="200" alt="Permissions" /><br /><sub>Permissions</sub></td>
+    <td align="center"><img src="screenshots/App/login.jpeg" width="200" alt="Login" /><br /><sub>Login</sub></td>
+    <td align="center"><img src="screenshots/App/register.jpeg" width="200" alt="Sign up" /><br /><sub>Sign up</sub></td>
+    <td align="center"><img src="screenshots/App/permissions.jpeg" width="200" alt="Permissions" /><br /><sub>Permissions</sub></td>
   </tr>
 </table>
 
