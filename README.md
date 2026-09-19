@@ -106,14 +106,14 @@ For anyone reviewing this repository, here is what it shows in practice:
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/app/home.jpeg" width="200" alt="Home" /><br /><sub>Home</sub></td>
-    <td align="center"><img src="screenshots/app/histories.jpeg" width="200" alt="History" /><br /><sub>History</sub></td>
-    <td align="center"><img src="screenshots/app/profile.jpeg" width="200" alt="Profile" /><br /><sub>Profile</sub></td>
+    <td align="center"><img src="screenshots/%20app/home.jpeg" width="200" alt="Home" /><br /><sub>Home</sub></td>
+    <td align="center"><img src="screenshots/%20app/histories.jpeg" width="200" alt="History" /><br /><sub>History</sub></td>
+    <td align="center"><img src="screenshots/%20app/profile.jpeg" width="200" alt="Profile" /><br /><sub>Profile</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/app/login.jpeg" width="200" alt="Login" /><br /><sub>Login</sub></td>
-    <td align="center"><img src="screenshots/app/register.jpeg" width="200" alt="Sign up" /><br /><sub>Sign up</sub></td>
-    <td align="center"><img src="screenshots/app/permissions.jpeg" width="200" alt="Permissions" /><br /><sub>Permissions</sub></td>
+    <td align="center"><img src="screenshots/%20app/login.jpeg" width="200" alt="Login" /><br /><sub>Login</sub></td>
+    <td align="center"><img src="screenshots/%20app/register.jpeg" width="200" alt="Sign up" /><br /><sub>Sign up</sub></td>
+    <td align="center"><img src="screenshots/%20app/permissions.jpeg" width="200" alt="Permissions" /><br /><sub>Permissions</sub></td>
   </tr>
 </table>
 
@@ -121,7 +121,7 @@ For anyone reviewing this repository, here is what it shows in practice:
 
 | Admin | User | Login |
 |---|---|---|
-| ![Admin dashboard](screenshots/dashboard/admin.jpeg) | ![User dashboard](screenshots/dashboard/user.png) | ![Dashboard login](screenshots/dashboard/login.jpeg) |
+| ![Admin dashboard](screenshots/%20dashboard/admin.jpeg) | ![User dashboard](screenshots/%20dashboard/user.png) | ![Dashboard login](screenshots/%20dashboard/login.jpeg) |
 
 ---
 
