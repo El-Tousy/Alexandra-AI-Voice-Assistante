@@ -38,7 +38,6 @@ Final Year Project (PFE) · 2026
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
-- [CI/CD](#cicd)
 - [Testing](#testing)
 - [Project Structure](#project-structure)
 - [Security](#security)
@@ -273,24 +272,6 @@ Nothing sensitive is stored in this repository.
 
 ---
 
-## CI/CD
-
-Two workflows run on GitHub Actions. Neither ever has access to a real API key: builds use generated placeholders.
-
-| Workflow | Trigger | What it does |
-|---|---|---|
-| [`android-ci.yml`](.github/workflows/android-ci.yml) | Push or pull request on `main` | Lint → unit tests → debug build → uploads reports and the debug APK as artifacts |
-| [`release.yml`](.github/workflows/release.yml) | Push of a tag `vX.Y.Z` | Builds the release APK → aligns and signs it → computes a SHA-256 checksum → publishes a GitHub Release with generated notes |
-
-Practices applied:
-
-- **Least-privilege permissions** — the CI workflow is read-only; only the release workflow can write
-- **Concurrency control** — superseded runs are cancelled automatically
-- **Dependency caching** for faster builds
-- **Dependabot** — weekly updates for Gradle dependencies and Actions versions
-- **Reports uploaded on failure**, so a red build can be diagnosed without re-running it locally
-- **Verifiable releases** — every APK ships with a checksum
-
 ### Publishing a release
 
 ```bash
@@ -344,12 +325,6 @@ Both commands run automatically on every push and pull request.
 ```
 alexandra-voice-assistant/
 │
-├── .github/
-│   ├── workflows/
-│   │   ├── android-ci.yml       # Lint, test, build
-│   │   └── release.yml          # Signed APK release on tag
-│   └── dependabot.yml
-│
 ├── android_studio_codes/        # Android project
 │   ├── app/
 │   │   └── src/main/
@@ -364,7 +339,7 @@ alexandra-voice-assistant/
 │   ├── dashboard-user.html
 │   └── login.html
 │
-├── docs/                        # Demo GIF and extra documentation
+├── docs/                        # Demo GIF 
 ├── screenshots/
 │   ├── app/
 │   └── dashboard/
@@ -421,7 +396,7 @@ The production-grade design is to keep the key on a server and have the app call
 
 ## Author
 
-**TODO: Your Name** — Computer Science student
+**El_Tousy** — Computer Science student
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/El-Tousy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TODO)
