@@ -15,13 +15,10 @@ Final Year Project (PFE) · 2026
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-· [🇩🇪 Deutsch](README.de.md)
+[🇩🇪 Deutsch](README.de.md)
 
 </div>
 
-<!-- TODO: 15-20s GIF of a real voice interaction (you speaking, the app answering).
-     Record the screen with the Android built-in recorder, convert with:
-     ffmpeg -i demo.mp4 -vf "fps=12,scale=320:-1" docs/demo.gif -->
 <p align="center">
   <img src="docs/demo.gif" alt="Alexandra demo" width="280" />
 </p>
